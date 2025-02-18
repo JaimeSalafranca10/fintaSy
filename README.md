@@ -1,0 +1,1 @@
+A mobile application project for Mobile App that simulates a stock market game where users manage a virtual investment portfolio, based on the FANTASY game. Instead of fantasy sports teams, users will trade virtual stocks representing real or simulated companies and compete for the highest portfolio gains.

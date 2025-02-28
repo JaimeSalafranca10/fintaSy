@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Layout Login</string>
-    <string name="login_label">Login</string>
-    <string name="sign_in_to_continue">Please sign in to continue</string>
+    <string name="welcome_label">Welcome!</string>
+    <string name="caption_missed_you">we missed you</string>
+    <string name="not_a_member">Not a FINTA$Y member?</string>
+    <string name="create_account">Create account</string>
+    <string name="phone_number_text">Phone number</string>
     <string name="email_edit_text">Email</string>
     <string name="password_edit_text">Password</string>
     <string name="login_button_text">Login</string>
